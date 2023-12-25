@@ -1,11 +1,10 @@
 package main
 
 import (
+	client "addressBookClient/client"
 	"bufio"
 	"fmt"
 	"os"
-
-	client "addressBookClient/client"
 )
 
 func main() {
